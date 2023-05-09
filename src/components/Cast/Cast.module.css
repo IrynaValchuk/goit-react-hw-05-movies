@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.item {
+  width: 250px;
+}
+
+.title {
+  font-weight: 500;
+}
